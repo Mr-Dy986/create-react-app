@@ -1,0 +1,5 @@
+[build]
+  base    = "create-react-app/web-order"
+  publish = "create-react-app/web-order/build"
+  command = "npm run build"
+  
